@@ -20,6 +20,8 @@ class JoblistingsApplicationTests {
 	@Test
 	void contextLoads() {
 		logger.info("Tests initialized.....");
+
+		logger.info("Tests initialized again.....");
 		assertEquals(true, true);
 	}
 }
