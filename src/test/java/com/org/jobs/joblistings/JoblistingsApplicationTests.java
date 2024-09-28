@@ -16,7 +16,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 class JoblistingsApplicationTests {
 
 	public static Logger logger = LoggerFactory.getLogger(JoblistingsApplication.class);
-	
+
 	@Test
 	void contextLoads() {
 		logger.info("Tests initialized.....");
